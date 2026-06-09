@@ -1,0 +1,8 @@
+{
+  "name": "Zapya Transfer",
+  "description": "A dark, modern, fully responsive web application for sharing and transferring files securely using a 6-digit download code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
