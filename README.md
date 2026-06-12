@@ -3,6 +3,7 @@
 A highly-polished, responsive cloud-sharing portal engineered in React with a sleek, dark-slate visual style. It mimics the behavior of Sendro Transfer, allowing users to upload documents, receive a secure **6-digit dynamic retrieval code**, and download packages instantly. 
 
 Files are stored dynamically with automatic expiration policy safeguards, ensuring **complete deletion after exactly 7 days (168 hours)**.
+<img width="947" height="523" alt="image" src="https://github.com/user-attachments/assets/15b6885c-e77f-4ddb-83d2-c0d754684610" />
 
 ---
 
