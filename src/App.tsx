@@ -14,8 +14,8 @@ import { AnimatePresence, motion } from "motion/react";
 import { ShieldAlert, Sparkles, Cloud, Lock } from "lucide-react";
 
 export default function App() {
-  // Default page is "transfer" so user immediately sees their visual clone matching request
-  const [activePage, setActivePage] = useState<PageId>("transfer");
+  // Default page is "home" so user immediately sees their visual clone matching request
+  const [activePage, setActivePage] = useState<PageId>("home");
   
   // Default theme is "dark, grayesh" (true)
   const [darkMode, setDarkMode] = useState<boolean>(() => {
