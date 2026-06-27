@@ -137,7 +137,7 @@ export default function App() {
             <div className="flex items-center space-x-2 text-gray-900 dark:text-white mb-4">
               <Cloud className="h-5 w-5 text-cyan-500" />
               <span className="font-extrabold text-base tracking-tight bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-                Sendro Transfer Clone
+                Sendro Transfer
               </span>
             </div>
             <p className="text-xs leading-relaxed max-w-sm">
